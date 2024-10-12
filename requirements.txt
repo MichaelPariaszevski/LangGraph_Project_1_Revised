@@ -2,7 +2,8 @@ langchain
 langgraph 
 langchain-community 
 langchain-core 
-python-dotenv 
 langchain-openai 
 langchain-groq 
 langchain-exa 
+python-dotenv 
+streamlit
