@@ -1,3 +1,5 @@
+#  Type export PYTHONPATH='/home/mpariaszevski/langgraph_project_1/LangGraph_Project_1' in terminal for imports
+
 from langchain_exa import ExaSearchRetriever
 from langgraph_project_1_dir.state import Custom_State
 
